@@ -1,1 +1,1 @@
-# Women in Computing Science Workshop
+# Women in Computing Science Linux Workshop
